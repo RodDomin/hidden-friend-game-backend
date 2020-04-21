@@ -1,2 +1,2 @@
 release: yarn build
-web: node ./frontend/server.js
+web: node ./dist/server.js
